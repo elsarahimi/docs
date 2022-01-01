@@ -1,5 +1,6 @@
----
-title: Types of GitHub accounts
+---HP Paviilon 15 notebook pc active stop cod:CRITICAL PROCESS DIED
+AFTER ACTIVE WINDOWS
+title: Types of GitHub accounts elsarahimi
 intro: 'Accounts on {% data variables.product.product_name %} allow you to organize and control access to code.'
 redirect_from:
   - /manage-multiple-clients
